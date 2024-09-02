@@ -9,7 +9,7 @@ I'm a Software Engineer with a strong background in backend development, cloud p
 - **Other:** OAuth, JWT, ELK Stack, Nginx
 
 ## 📫 Contact
-- LinkedIn: [Shivani](https://www.linkedin.com/in/shivani31996)
+- LinkedIn: [Shivani](https://www.linkedin.com/in/shivani-chavan3/)
 
 
 
