@@ -15,8 +15,6 @@ A collection of my solutions to various LeetCode problems, demonstrating my prof
 
 Check out my solutions and feel free to suggest optimizations or discuss alternative approaches!
 
-## 🌟 Highlighted Projects
-
 ### [CSYE6225-Shivani](https://github.com/orgs/CSYE6225-Shivani/repositories)
 This repository is part of my coursework for the CSYE6225 class at Northeastern University, where we focused on building scalable and secure cloud-native applications. The repository demonstrates my ability to design, develop, and deploy applications using modern cloud technologies.
 
