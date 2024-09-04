@@ -8,7 +8,7 @@ I'm a Software Engineer with a strong background in backend development, cloud p
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Other:** OAuth, JWT, ELK Stack, Nginx
 
-## 🌟 Highlighted Projects
+## 🌟 Highlighted Repositories
 
 ### [LeetCode Submissions](https://github.com/Shivani31996/leetCodeSubmissions)
 A collection of my solutions to various LeetCode problems, demonstrating my proficiency in algorithms and data structures. This repository includes solutions written in Java, showcasing my ability to adapt and solve problems in different environments.
@@ -30,6 +30,7 @@ This repository reflects my understanding of cloud computing concepts and my abi
 
 ## 📫 Contact
 - LinkedIn: [Shivani](https://www.linkedin.com/in/shivani-chavan3/)
+- Email: shivani.chavan96@gmail.com
 
 
 
