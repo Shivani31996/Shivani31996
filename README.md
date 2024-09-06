@@ -10,11 +10,6 @@ I'm a Software Engineer with a strong background in backend development, cloud p
 
 ## 🌟 Highlighted Repositories
 
-### [LeetCode Submissions](https://github.com/Shivani31996/leetCodeSubmissions)
-A collection of my solutions to various LeetCode problems, demonstrating my proficiency in algorithms and data structures. This repository includes solutions written in Java, showcasing my ability to adapt and solve problems in different environments.
-
-Check out my solutions and feel free to suggest optimizations or discuss alternative approaches!
-
 ### [CSYE6225-Shivani](https://github.com/orgs/CSYE6225-Shivani/repositories)
 This repository is part of my coursework for the CSYE6225 class at Northeastern University, where we focused on building scalable and secure cloud-native applications. The repository demonstrates my ability to design, develop, and deploy applications using modern cloud technologies.
 
@@ -27,6 +22,10 @@ This repository is part of my coursework for the CSYE6225 class at Northeastern 
 
 This repository reflects my understanding of cloud computing concepts and my ability to apply them in real-world scenarios.
 
+### [LeetCode Submissions](https://github.com/Shivani31996/leetCodeSubmissions)
+A collection of my solutions to various LeetCode problems, demonstrating my proficiency in algorithms and data structures. This repository includes solutions written in Java, showcasing my ability to adapt and solve problems in different environments.
+
+Check out my solutions and feel free to suggest optimizations or discuss alternative approaches!
 
 ## 📫 Contact
 - LinkedIn: [Shivani](https://www.linkedin.com/in/shivani-chavan3/)
