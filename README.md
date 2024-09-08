@@ -27,6 +27,9 @@ A collection of my solutions to various LeetCode problems, demonstrating my prof
 
 Check out my solutions and feel free to suggest optimizations or discuss alternative approaches!
 
+### Mini Projects
+- https://qr-code-webapp.netlify.app/
+  
 ## 📫 Contact
 - LinkedIn: [Shivani](https://www.linkedin.com/in/shivani-chavan3/)
 - Email: shivani.chavan96@gmail.com
