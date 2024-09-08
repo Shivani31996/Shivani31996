@@ -27,7 +27,7 @@ A collection of my solutions to various LeetCode problems, demonstrating my prof
 
 Check out my solutions and feel free to suggest optimizations or discuss alternative approaches!
 
-### Mini Projects
+## Mini Projects
 - https://qr-code-webapp.netlify.app/
   
 ## 📫 Contact
